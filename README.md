@@ -18,7 +18,8 @@ Também possuo base em lógica de programação e back-end, o que me ajuda a des
 *   HTML
 *   CSS
 *   C#
-*   ⚡  Sou apaixonada por tecnologia, adoro aprender coisas novas e estou sempre em busca de evoluir como dev. Habilidades 
+*   ⚡  Sou apaixonada por tecnologia, adoro aprender coisas novas e estou sempre em busca de evoluir como dev.
+*   Habilidades:
 <p align="left">
  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a> 
                     </p>
