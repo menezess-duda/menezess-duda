@@ -1,7 +1,12 @@
 Olá, meu nome é Duda Menezes ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Sou estudante do curso técnico de Desenvolvimento de Sistemas, atualmente no 2º módulo. Gosto de resolver problemas com código, aprender novas linguagens e criar soluções úteis. Estou focado em evoluir tanto no front-end quanto no back-end, buscando sempre aplicar o que aprendo em projetos práticos. Estou construindo meu portfólio e me preparando para oportunidades na área de tecnologia.
+Sou estudante do curso técnico de Desenvolvimento de Sistemas, atualmente no 3º módulo. Gosto de resolver problemas com código, aprender novas linguagens e criar soluções úteis, buscando sempre aplicar o que aprendo em projetos práticos. Estou construindo meu portfólio e me preparando para oportunidades na área de tecnologia.
+
+🎨 Apaixonada por design, interfaces modernas e experiências digitais bem construídas.
+
+Meu foco é Front-End, criando páginas responsivas, organizadas e visualmente atraentes.  
+Também possuo base em lógica de programação e back-end, o que me ajuda a desenvolver soluções mais completas.
 
 *   ✨️ Buscando a minha primeira oportunidade na área da tecnologia 
 *   🌍 Brasil 🇧🇷
