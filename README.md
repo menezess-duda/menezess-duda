@@ -1,25 +1,20 @@
 Olá, meu nome é Duda Menezes ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Sou estudante do curso técnico de Desenvolvimento de Sistemas, atualmente no 3º módulo. Gosto de resolver problemas com código, aprender novas linguagens e criar soluções úteis, buscando sempre aplicar o que aprendo em projetos práticos. Estou construindo meu portfólio e me preparando para oportunidades na área de tecnologia.
+Sou Técnica em Desenvolvimento de Sistemas pela ETEC Professor Horácio Augusto da Silveira, e atualmente estou no último ano do Ensino Médio. Gosto de resolver problemas com código, aprender novas linguagens e criar soluções úteis, buscando sempre aplicar o que aprendo em projetos práticos.
 
 🎨 Apaixonada por design, interfaces modernas e experiências digitais bem construídas.
 
-Meu foco é Front-End, criando páginas responsivas, organizadas e visualmente atraentes.  
+Meu foco é Front-End, criando páginas responsivas, organizadas e visualmente atraentes.
 Também possuo base em lógica de programação e back-end, o que me ajuda a desenvolver soluções mais completas.
 
-*   ✨️ Buscando a minha primeira oportunidade na área da tecnologia 
-*   🌍 Brasil 🇧🇷
-*   ✉️ Você pode entrar em contato comigo em: mariaeduardamenezes0706@gmail.com 
-*   🧠 Estou aprendendo:
-*   JavaScript
-*   Java
-*   Git
-*   HTML
-*   CSS
-*   C#
-*   ⚡  Sou apaixonada por tecnologia, adoro aprender coisas novas e estou sempre em busca de evoluir como dev.
-*   Habilidades:
+- ✨️ Buscando minha primeira oportunidade na área de tecnologia
+- 🌍 Brasil 🇧🇷
+- ✉️ Você pode entrar em contato comigo em: mariaeduardamenezes0706@gmail.com
+- 🧠 Tecnologias que utilizo:
+  - JavaScript, React, Java, C#, HTML, CSS, SQL, Git
+
+- ⚡ Sou apaixonada por tecnologia, adoro aprender coisas novas e estou sempre em busca de evoluir como dev.
 <p align="left">
  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a> 
                     </p>
